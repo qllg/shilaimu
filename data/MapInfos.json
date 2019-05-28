@@ -1,0 +1,9 @@
+[
+null,
+{"id":1,"expanded":false,"name":"史莱姆的房间","order":1,"parentId":0,"scrollX":771.5,"scrollY":477},
+{"id":2,"expanded":false,"name":"王城","order":2,"parentId":0,"scrollX":763.5,"scrollY":689},
+{"id":3,"expanded":false,"name":"宫殿内部","order":3,"parentId":0,"scrollX":763.5,"scrollY":723},
+{"id":4,"expanded":false,"name":"商店","order":4,"parentId":0,"scrollX":771.5,"scrollY":477},
+{"id":5,"expanded":false,"name":"北方的废墟","order":5,"parentId":0,"scrollX":763.5,"scrollY":477},
+{"id":6,"expanded":false,"name":"暴风龙据点","order":6,"parentId":0,"scrollX":771.5,"scrollY":477}
+]
